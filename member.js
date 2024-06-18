@@ -1,4 +1,3 @@
-function skillsMembe(){
-    var skills = ['HTML', 'CSS', 'JavaScript'];
-    console.log(skills);
+function skillsMember() {
+  console.log('I am a member')
 }
